@@ -10,7 +10,7 @@ To run this app locally you need `nodeJS` and `git` installed locally.
 ## Step 1 - Clone this repository 
 
 ```
-bash comman
+https://github.com/Kola-Prabhas/quadb.git
 ```
 
 ## Step 2 - Change the directory
