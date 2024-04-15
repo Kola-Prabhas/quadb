@@ -38,7 +38,7 @@ export default function TaskInput({ open, handleClose }) {
 
 				<label htmlFor='task' className='block text-[24px] font-medium'>Task</label>
 				<textarea
-					className='outline-0 h-[250px] w-[80%] px-2 rounded-md border border-gray-300 focus:border-blue-400 text-[20px] sm:text-[24px] font-medium'
+					className='outline-0 h-[250px] w-full lg:w-[80%] px-2 rounded-md border border-gray-300 focus:border-blue-400 text-[20px] sm:text-[24px] font-medium'
 					type='text'
 					id='task'
 					autoFocus
